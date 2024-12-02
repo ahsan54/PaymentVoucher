@@ -1,6 +1,9 @@
 ### Payment Voucher Module for Odoo
 
-This module extends the accounting functionality of Odoo to incorporate a Payment Voucher feature. The module provides a seamless way to manage payment vouchers and their associated journal entries, including handling cheque numbers and linking them with accounting journals. Here's an overview of the module's features:
+This module extends the accounting functionality of Odoo to incorporate a Payment Voucher feature. Designed an Odoo module to streamline payment processing with automated journal entries, featuring dynamically generated debit/credit lines linked to relevant journals. Integrated ir.sequence for different voucher and  cheque numbers.
+The module provides a seamless way to manage payment vouchers and their associated journal entries, including handling cheque numbers and linking them with accounting journals.
+
+Here's an overview of the module's features:
 
 ## Features
 
